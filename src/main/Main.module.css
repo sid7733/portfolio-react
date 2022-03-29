@@ -1,0 +1,26 @@
+.mainBlock {
+    height: 100vh;
+    background-color: bisque;
+}
+
+.container {
+    border: 1px solid;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.greeting {
+    width: 350px;
+    background-color: #f7f7f7;
+}
+
+.photo {
+    width: 350px;
+    height: 400px;
+    background-color: #f7f7f7;
+}
